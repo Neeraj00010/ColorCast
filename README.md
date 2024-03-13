@@ -6,10 +6,6 @@ Example recoloring of google (the used colors are [solarized](http://ethanschoon
 
 ![](preview.png)
 
-## Installation instructions
-### Firefox
-You could install ReColor from here: <https://addons.mozilla.org/en-US/firefox/addon/recolor/>.
-
 ## Configuration instructions
 ### GUI Configuration
 You could configure the extension colors through its options in the extensions page,
@@ -28,6 +24,4 @@ javascript:(function(){var a,b;a=function(a){var b,c;return b=new Blob([a.text],
 ```
 
 ## Known limitations
-The extension is definitely not perfect.
-It doesn't support the `@import` rule and inline styles.
-
+The extension is definitely not perfect at the moment.
